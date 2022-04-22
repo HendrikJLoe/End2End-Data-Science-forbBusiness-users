@@ -20,9 +20,9 @@ You are aware that IBM provides market-leading data science tooling and
 decide to use IBM<span dir="rtl">’</span>s Watson Studio running on
 CPDaaS to build and test your model.
 
-![Graphical user interface, application Description automatically
-generated](images/media/image1.png){width="5.586491688538933in"
-height="3.1410247156605426in"}
+<img src="images/media/image1.png"
+style="width:5.58649in;height:3.14102in"
+alt="Graphical user interface, application Description automatically generated" />
 
 Figure 1:IBM’s market position
 
@@ -30,9 +30,9 @@ IBM<span dir="rtl">’</span>s Cloud Pak for Data provides a range of
 capabilities catering for the whole data science life cycle – from data
 preparation, to model build, deployment, training and monitoring.
 
-![Graphical user interface, application Description automatically
-generated](images/media/image2.png){width="5.633510498687664in"
-height="3.1674606299212598in"}
+<img src="images/media/image2.png"
+style="width:5.63351in;height:3.16746in"
+alt="Graphical user interface, application Description automatically generated" />
 
 Figure 2: IBM's Data Science Portfolio
 
@@ -43,9 +43,9 @@ Studio Build, Watson Machine Learning / Watson Studio Deploy, Watson
 Openscale / Watson Studio Trust) enable the Build, Run and Manage
 capabilities of the MLOps lifecycle.
 
-![Graphical user interface Description automatically generated with
-medium confidence](images/media/image3.png){width="5.587743875765529in"
-height="3.141729002624672in"}
+<img src="images/media/image3.png"
+style="width:5.58774in;height:3.14173in"
+alt="Graphical user interface Description automatically generated with medium confidence" />
 
 Figure 3: Watson Studio's components
 
