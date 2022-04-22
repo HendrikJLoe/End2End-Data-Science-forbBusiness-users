@@ -15,39 +15,39 @@ near future, so that Marketing could proactively target them with
 personalized incentives and discount vouchers.
 
 You have a lot of other work to do and are a short on time,and are in
-need of inspiration – your Python skills are a bit rusty.  
+need of inspiration -- your Python skills are a bit rusty.\
 You are aware that IBM provides market-leading data science tooling and
-decide to use IBM<span dir="rtl">’</span>s Watson Studio running on
-CPDaaS to build and test your model.
+decide to use IBM[']{dir="rtl"}s Watson Studio running on CPDaaS to
+build and test your model.
 
-<img src="images/media/image1.png"
-style="width:5.58649in;height:3.14102in"
-alt="Graphical user interface, application Description automatically generated" />
+![Graphical user interface, application Description automatically
+generated](images/media/image1.png){width="5.586491688538933in"
+height="3.1410247156605426in"}
 
-Figure 1:IBM’s market position
+Figure 1:IBM's market position
 
-IBM<span dir="rtl">’</span>s Cloud Pak for Data provides a range of
-capabilities catering for the whole data science life cycle – from data
-preparation, to model build, deployment, training and monitoring.
+IBM[']{dir="rtl"}s Cloud Pak for Data provides a range of capabilities
+catering for the whole data science life cycle -- from data preparation,
+to model build, deployment, training and monitoring.
 
-<img src="images/media/image2.png"
-style="width:5.63351in;height:3.16746in"
-alt="Graphical user interface, application Description automatically generated" />
+![Graphical user interface, application Description automatically
+generated](images/media/image2.png){width="5.633510498687664in"
+height="3.1674606299212598in"}
 
-Figure 2: IBM's Data Science Portfolio
+Figure 2: IBM\'s Data Science Portfolio
 
-The platform<span dir="rtl">’</span>s Data Science and ML component(s)
-sit under the Watson Studio branding umbrella. Cloud Pak for Data<span
-dir="rtl">’</span>s Watson Studio services (Watson Studio / Watson
-Studio Build, Watson Machine Learning / Watson Studio Deploy, Watson
-Openscale / Watson Studio Trust) enable the Build, Run and Manage
-capabilities of the MLOps lifecycle.
+The platform[']{dir="rtl"}s Data Science and ML component(s) sit under
+the Watson Studio branding umbrella. Cloud Pak for Data[']{dir="rtl"}s
+Watson Studio services (Watson Studio / Watson Studio Build, Watson
+Machine Learning / Watson Studio Deploy, Watson Openscale / Watson
+Studio Trust) enable the Build, Run and Manage capabilities of the MLOps
+lifecycle.
 
-<img src="images/media/image3.png"
-style="width:5.58774in;height:3.14173in"
-alt="Graphical user interface Description automatically generated with medium confidence" />
+![Graphical user interface Description automatically generated with
+medium confidence](images/media/image3.png){width="5.587743875765529in"
+height="3.141729002624672in"}
 
-Figure 3: Watson Studio's components
+Figure 3: Watson Studio\'s components
 
 In this Lab, you will:
 
@@ -57,5 +57,5 @@ In this Lab, you will:
 -   [And, finally, deploy and test that model with Watson Machine
     Learning (Watson Studio Deploy capabilities).](#bookmark1)
 
-… and, your model will be built (for you!) and deployed in minutes - not
-hours or days!
+... and, your model will be built (for you!) and deployed in minutes -
+not hours or days!
